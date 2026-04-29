@@ -1,0 +1,5 @@
+# CODEOWNERS
+# Defines who is responsible for code reviews in this repository.
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+test_dir_1/           @HelgaMtz-DevOps/pact-tools-dev
